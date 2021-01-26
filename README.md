@@ -9,5 +9,5 @@ You can Run your JavaScript File from your Terminal only if you have installed N
 **Steps :**
 
 1.  Open Terminal
-2.  Set Path to where File is Located (using cd
-3.  Type **“node FileName.js”** and Click Enter
+2.  Set Path to where File is Located (using cd)
+3.  Type **“node FileName.js”** and press "Enter" key
