@@ -2,6 +2,12 @@
 
 Exercise solutions from [Eloquent JavaScript (3rd edition.)](https://eloquentjavascript.net/) :blue_book:
 
+## Exercise lists
+
+### Chapter 02
+
+- [Looping a triangle](/Chapter 02/loopingTriangle.js)
+
 **How do you run JavaScript script through the Terminal?** :octocat:
 
 You can Run your JavaScript File from your Terminal only if you have installed NodeJs runtime. If you have Installed it then Simply open the terminal and type **“node FileName.js”**
