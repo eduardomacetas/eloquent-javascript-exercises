@@ -6,7 +6,9 @@ Exercise solutions from [Eloquent JavaScript (3rd edition.)](https://eloquentjav
 
 ### Chapter 02
 
-- [Looping a triangle](/Chapter 02/loopingTriangle.js)
+- [Looping a triangle](https://github.com/eduardomacetas/eloquent-javascript-exercises/blob/main/Chapter%2002/loopingTriangle.js)
+- [FizzBuzz](https://github.com/eduardomacetas/eloquent-javascript-exercises/blob/main/Chapter%2002/fizzBuzz.js)
+- [ChessBoard](https://github.com/eduardomacetas/eloquent-javascript-exercises/blob/main/Chapter%2002/chessBoard.js)
 
 **How do you run JavaScript script through the Terminal?** :octocat:
 
