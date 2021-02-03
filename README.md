@@ -10,6 +10,12 @@ Exercise solutions from [Eloquent JavaScript (3rd edition.)](https://eloquentjav
 - [FizzBuzz](https://github.com/eduardomacetas/eloquent-javascript-exercises/blob/main/Chapter%2002/fizzBuzz.js)
 - [ChessBoard](https://github.com/eduardomacetas/eloquent-javascript-exercises/blob/main/Chapter%2002/chessBoard.js)
 
+### Chapter 03
+
+- [Minimum](https://github.com/eduardomacetas/eloquent-javascript-exercises/blob/main/Chapter%2003/minimum.js)
+- [Recursion](https://github.com/eduardomacetas/eloquent-javascript-exercises/blob/main/Chapter%2003/recursion.js)
+- [Bean counting](https://github.com/eduardomacetas/eloquent-javascript-exercises/blob/main/Chapter%2003/beanCounting.js)
+
 **How do you run JavaScript script through the Terminal?** :octocat:
 
 You can Run your JavaScript File from your Terminal only if you have installed NodeJs runtime. If you have Installed it then Simply open the terminal and type **“node FileName.js”**
