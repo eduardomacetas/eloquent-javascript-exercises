@@ -20,9 +20,15 @@ Exercise solutions from [Eloquent JavaScript (3rd edition.)](https://eloquentjav
 
 - [The Sum of a Range](https://github.com/eduardomacetas/eloquent-javascript-exercises/blob/main/Chapter%2004/theSumOfaRange.js)
 
+### Run Scripts
+
 **How do you run JavaScript script through the Terminal?** :octocat:
 
-You can Run your JavaScript File from your Terminal only if you have installed NodeJs runtime. If you have Installed it then Simply open the terminal and type **“node FileName.js”**
+You canrun your JavaScript File from your Terminal only if you have installed NodeJs runtime. If you have Installed it thensimply open the terminal and type
+
+```
+node FileName.js
+```
 
 **Steps :**
 
