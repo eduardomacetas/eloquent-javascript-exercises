@@ -16,6 +16,10 @@ Exercise solutions from [Eloquent JavaScript (3rd edition.)](https://eloquentjav
 - [Recursion](https://github.com/eduardomacetas/eloquent-javascript-exercises/blob/main/Chapter%2003/recursion.js)
 - [Bean counting](https://github.com/eduardomacetas/eloquent-javascript-exercises/blob/main/Chapter%2003/beanCounting.js)
 
+### Chapter 04
+
+- [The Sum of a Range](https://github.com/eduardomacetas/eloquent-javascript-exercises/blob/main/Chapter%2004/theSumOfaRange.js)
+
 **How do you run JavaScript script through the Terminal?** :octocat:
 
 You can Run your JavaScript File from your Terminal only if you have installed NodeJs runtime. If you have Installed it then Simply open the terminal and type **“node FileName.js”**
