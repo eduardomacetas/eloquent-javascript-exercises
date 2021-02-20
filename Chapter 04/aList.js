@@ -1,5 +1,5 @@
 function arrayToList(array) {
-  var list = null;
+  let list = null;
   for (let i = array.length - 1; i >= 0; i--) {
     list = {
       value: array[i],
@@ -9,5 +9,13 @@ function arrayToList(array) {
   return list;
 }
 
+function listToArray(list) {
+  let array = [];
+  for (let node = list; node; node = node.rest) {
+    array.push(node.value);
+  }
+  return array;
+}
+
 console.log(arrayToList([10, 20]));
-// console.log(arrayToList([10, 20, 30, 40]));
+console.log(listToArray(arrayToList([10, 20, 30])));
