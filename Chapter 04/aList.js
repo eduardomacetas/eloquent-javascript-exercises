@@ -21,6 +21,12 @@ function prepend(value, list) {
   return { value: value, rest: list };
 }
 
+function nth(list, position) {
+  if (!list) return undefined;
+  return position == 0 ? list.value : nth(list.rest, position - 1);
+}
+
 console.log(arrayToList([10, 20]));
 console.log(listToArray(arrayToList([10, 20, 30])));
 console.log(prepend(10, prepend(20, null)));
+console.log(nth(arrayToList([10, 20, 30]), 1));
