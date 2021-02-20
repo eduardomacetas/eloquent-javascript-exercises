@@ -20,6 +20,7 @@ Exercise solutions from [Eloquent JavaScript (3rd edition.)](https://eloquentjav
 
 - [The Sum of a Range](https://github.com/eduardomacetas/eloquent-javascript-exercises/blob/main/Chapter%2004/theSumOfaRange.js)
 - [Reversing an array](https://github.com/eduardomacetas/eloquent-javascript-exercises/blob/main/Chapter%2004/reversingAnArray.js) 🤔
+- [A list](https://github.com/eduardomacetas/eloquent-javascript-exercises/blob/main/Chapter%2004/aList.js) 🤔
 
 ### Run Scripts
 
