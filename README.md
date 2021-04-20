@@ -2,7 +2,7 @@
 
 Exercise solutions from [Eloquent JavaScript (3rd edition.)](https://eloquentjavascript.net/) :blue_book:
 
-## Exercise lists
+## Exercise list
 
 ### Chapter 02
 
