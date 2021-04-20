@@ -23,11 +23,11 @@ Exercise solutions from [Eloquent JavaScript (3rd edition.)](https://eloquentjav
 - [A list](https://github.com/eduardomacetas/eloquent-javascript-exercises/blob/main/Chapter%2004/aList.js) 🤔
 - [Deep Comparison](https://github.com/eduardomacetas/eloquent-javascript-exercises/blob/main/Chapter%2004/deepComparison.js) 🧠
 
-### Run Scripts
+## Run Scripts
 
 **How do you run JavaScript script through the Terminal?** :octocat:
 
-You canrun your JavaScript File from your Terminal only if you have installed NodeJs runtime. If you have Installed it thensimply open the terminal and type
+You can run your JavaScript File from your Terminal only if you have installed NodeJs runtime. If you have Installed it then simply open the terminal and type
 
 ```
 node FileName.js
