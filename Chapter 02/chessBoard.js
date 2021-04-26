@@ -23,11 +23,11 @@
 let size = prompt("Input the 'SIZE' of the ChessBoard");
 
 for (let i = 0; i < size; i++) {
-  let fichas = "";
+  let board = "";
   for (let j = 0; j < size; j++) {
-    (i + j) % 2 == 0 ? (fichas += " ") : (fichas += "#");
+    (i + j) % 2 == 0 ? (board += " ") : (board += "#");
   }
-  console.log(fichas);
+  console.log(board);
 }
 
 // Note: For run this script I'm using https://repl.it/languages/nodejs
