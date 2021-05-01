@@ -11,9 +11,14 @@
 // except it takes a second argument that indicates the character that is to be counted
 // (rather than counting only uppercase “B” characters). Rewrite countBs to make use of this new function.
 
+// console.log(countBs("BBC"));
+// → 2
+// console.log(countChar("kakkerlak", "k"));
+// → 4
+
 function countChar(string, letter) {
   let countLetters = 0;
-  for (let i = 0; i < string.length; i++) {
+  for (let i = 0; i < string.length - 1; i++) {
     if (string[i] === letter) countLetters += 1;
   }
   return countLetters;
