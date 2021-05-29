@@ -38,7 +38,5 @@ function dominantDirection(text) {
   return scripts.reduce((a, b) => (a.count > b.count ? a : b)).name;
 }
 
-// test
-
 console.log(dominantDirection("Hello!"));
 console.log(dominantDirection("Hey, مساء الخير"));
