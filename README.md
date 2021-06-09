@@ -23,6 +23,13 @@ Exercise solutions from [Eloquent JavaScript (3rd edition)](https://eloquentjava
 - [A list](https://github.com/eduardomacetas/eloquent-javascript-exercises/blob/main/Chapter%2004/aList.js) 🤔
 - [Deep Comparison](https://github.com/eduardomacetas/eloquent-javascript-exercises/blob/main/Chapter%2004/deepComparison.js) 🧠
 
+### Chapter 05
+
+- [Flattening]
+- [Your own loop]
+- [Everything]
+- [Dominant writing direction]
+
 ## Run Scripts
 
 **How do you run JavaScript script through the Terminal?** :octocat:
