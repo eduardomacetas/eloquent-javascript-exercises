@@ -28,7 +28,7 @@ Exercise solutions from [Eloquent JavaScript (3rd edition)](https://eloquentjava
 - [Flattening](https://github.com/eduardomacetas/eloquent-javascript-exercises/blob/main/Chapter5/flattening.js)
 - [Your own loop](https://github.com/eduardomacetas/eloquent-javascript-exercises/blob/main/Chapter5/yourOwnLoop.js)
 - [Everything](https://github.com/eduardomacetas/eloquent-javascript-exercises/blob/main/Chapter5/everything.js)
-- [Dominant writing direction](https://github.com/eduardomacetas/eloquent-javascript-exercises/blob/main/Chapter5/dominantWritingDirection.js)
+- [Dominant writing direction](https://github.com/eduardomacetas/eloquent-javascript-exercises/blob/main/Chapter5/dominantWritingDirection.js) 🧠
 
 ## Run Scripts
 
